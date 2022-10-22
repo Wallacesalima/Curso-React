@@ -1,6 +1,9 @@
+//  Components
+import MyComponent from './MyComponent';
+// styles / CSS
 import '../App.css';
 import '../index.css';
-import MyComponent from './MyComponent';
+
 
 const FirstComponent = () => {
     return (
